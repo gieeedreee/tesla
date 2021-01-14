@@ -1,4 +1,4 @@
-#Tesla factory code
+# Tesla factory code
 ## Introduction
 Tesla factory code with main aspects of OOP, Inheritance and unit tests.
 ## Technologies
